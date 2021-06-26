@@ -1,0 +1,2 @@
+rootProject.name = "Android Life Cycle Assignment Toast"
+include ':app'
